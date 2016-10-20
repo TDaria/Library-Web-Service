@@ -1,0 +1,22 @@
+﻿@model Library.Models.HistoryViewModel
+
+@{
+    ViewBag.Title = "BookHistory";
+}
+
+<h2>BookHistory</h2>
+
+<div>
+	<hr />
+    <dl class="dl-horizontal">
+    </dl>
+</div>
+
+      @foreach (var item in Model.Logs)
+{
+    <h5>@item</h5>
+}
+<p>
+    @Html.ActionLink("Details", "Details", new { id = Model.BookId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

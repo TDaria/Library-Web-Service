@@ -1,0 +1,4 @@
+D:\University\SiteCore\Library\Library.Domain\bin\Debug\Library.Domain.dll
+D:\University\SiteCore\Library\Library.Domain\bin\Debug\Library.Domain.pdb
+D:\University\SiteCore\Library\Library.Domain\obj\Debug\Library.Domain.dll
+D:\University\SiteCore\Library\Library.Domain\obj\Debug\Library.Domain.pdb

@@ -1,0 +1,14 @@
+D:\University\SiteCore\Library\Library.Data.MsSql\bin\Debug\Library.Data.MsSql.dll
+D:\University\SiteCore\Library\Library.Data.MsSql\bin\Debug\Library.Data.MsSql.pdb
+D:\University\SiteCore\Library\Library.Data.MsSql\bin\Debug\Library.Domain.dll
+D:\University\SiteCore\Library\Library.Data.MsSql\bin\Debug\Library.Domain.pdb
+D:\University\SiteCore\Library\Library.Data.MsSql\obj\Debug\Library.DataAccess.csprojResolveAssemblyReference.cache
+D:\University\SiteCore\Library\Library.Data.MsSql\obj\Debug\Library.Data.MsSql.dll
+D:\University\SiteCore\Library\Library.Data.MsSql\obj\Debug\Library.Data.MsSql.pdb
+D:\University\SiteCore\LL\Library.Data.MsSql\bin\Debug\Library.Data.MsSql.dll
+D:\University\SiteCore\LL\Library.Data.MsSql\bin\Debug\Library.Data.MsSql.pdb
+D:\University\SiteCore\LL\Library.Data.MsSql\bin\Debug\Library.Domain.dll
+D:\University\SiteCore\LL\Library.Data.MsSql\bin\Debug\Library.Domain.pdb
+D:\University\SiteCore\LL\Library.Data.MsSql\obj\Debug\Library.DataAccess.csprojResolveAssemblyReference.cache
+D:\University\SiteCore\LL\Library.Data.MsSql\obj\Debug\Library.Data.MsSql.dll
+D:\University\SiteCore\LL\Library.Data.MsSql\obj\Debug\Library.Data.MsSql.pdb

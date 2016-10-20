@@ -1,0 +1,10 @@
+To connect a data base to the project it is required to attach MyLibrary.mdf to localDb and change <ConnectionString> in project file Web.config:
+[1] - name of local db
+[2] - path to file
+
+<connectionStrings >
+    <add
+         name="myConnectionString" 
+         connectionString="Data Source=[1];AttachDbFilename=[2]\MyLibrary.mdf;Initial Catalog=MyLibrary;Integrated Security=True"
+         providerName="System.Data.SqlClient"/>
+</connectionStrings>
